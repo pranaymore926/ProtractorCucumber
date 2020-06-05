@@ -9,7 +9,7 @@
     "protractor": "./node_modules/protractor/built/cli.js",
     "webdriver-update": "./node_modules/.bin/webdriver-manager update"
   },
-  "author": "rahul",
+  "author": "Pranay More",
   "license": "ISC",
   "dependencies": {
     "protractor": "~7.0.0",
